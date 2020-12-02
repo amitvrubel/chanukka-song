@@ -1,0 +1,12 @@
+.hebrew {
+  font-size: 30px;
+  direction: rtl;
+  text-align: right;
+  margin: 20px;
+  line-height: 50px;
+}
+
+small {
+  font-size: 20px;
+  display: block;
+}
